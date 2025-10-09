@@ -76,7 +76,8 @@
         "meta_descr": "Welcome to Paris Baguette – where every bite tells a story of French-inspired passion and craftsmanship. From freshly baked croissants and delicate pastries to signature cakes and artisan breads, our bakery brings the authentic taste of Paris to your neighborhood. Whether you’re stopping by for your morning coffee or celebrating a special moment, Paris Baguette is here to make every day a little sweeter.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/whatsapp%2520image%25202025-10-09%2520at%252011.19.14_41ca9dde-1080x608.jpg"
       },
       "components": [
         {
